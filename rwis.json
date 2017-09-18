@@ -1,0 +1,283 @@
+[   {
+		"ShortName": "01-rpu1",
+		"CommonName": "RWIS US-13 AT US-50",
+		"Latitude": 38.368730,
+		"Longitude": -75.537320
+	},
+	{
+		"ShortName": "01-rpu2",
+		"CommonName": "RWIS US-50 AT MD-331",
+		"Latitude": 38.491340,
+		"Longitude": -75.818430
+	},
+	{
+		"ShortName": "01-rpu3",
+		"CommonName": "RWIS US-13 AT US-113",
+		"Latitude": 38.064998,
+		"Longitude": -75.547803
+	},
+	{
+		"ShortName": "01-rpu4",
+		"CommonName": "RWIS US-50 AT OC DRAWBRIDGE",
+		"Latitude": 38.334235,
+		"Longitude": -75.098352
+	},
+	{
+		"ShortName": "02-rpu10",
+		"CommonName": "RWIS US-301 AT MD-305",
+		"Latitude": 39.046661,
+		"Longitude": -76.007854
+	},
+	{
+		"ShortName": "02-rpu11",
+		"CommonName": "RWIS MD-404 AT CHOPTANK RIVER",
+		"Latitude": 38.896600,
+		"Longitude": -75.834417
+	},
+	{
+		"ShortName": "02-rpu12",
+		"CommonName": "RWIS MD-33 AT KNAPPS NARROWS BR",
+		"Latitude": 38.718900,
+		"Longitude": -76.332967
+	},
+	{
+		"ShortName": "02-rpu5",
+		"CommonName": "RWIS MD-213 AT SASSAFRAS RIVER",
+		"Latitude": 39.363420,
+		"Longitude": -75.881570
+	},
+	{
+		"ShortName": "02-rpu6",
+		"CommonName": "RWIS US-1 AT CONOWINGO DAM",
+		"Latitude": 39.668305,
+		"Longitude": -76.170286
+	},
+	{
+		"ShortName": "02-rpu7",
+		"CommonName": "RWIS US-50 AT KENT NARROWS BRIDGE",
+		"Latitude": 38.972030,
+		"Longitude": -76.253910
+	},
+	{
+		"ShortName": "02-rpu8",
+		"CommonName": "RWIS US-50 AT CHOPTANK RIVER",
+		"Latitude": 38.592000,
+		"Longitude": -76.047160
+	},
+	{
+		"ShortName": "02-rpu9",
+		"CommonName": "RWIS MD-20 AT MD-21",
+		"Latitude": 39.198030,
+		"Longitude": -76.189772
+	},
+	{
+		"ShortName": "03-rpu13",
+		"CommonName": "RWIS I-270 AT I-370",
+		"Latitude": 39.119460,
+		"Longitude": -77.195930
+	},
+	{
+		"ShortName": "03-rpu14",
+		"CommonName": "RWIS I-270 AT MD-109",
+		"Latitude": 39.276930,
+		"Longitude": -77.323220
+	},
+	{
+		"ShortName": "03-rpu15",
+		"CommonName": "RWIS I-495 AT AMERICAN LEGION BR",
+		"Latitude": 38.973390,
+		"Longitude": -77.179120
+	},
+	{
+		"ShortName": "03-rpu16",
+		"CommonName": "RWIS I-95 AT PATUXENT RIVER",
+		"Latitude": 39.114690,
+		"Longitude": -76.874250
+	},
+	{
+		"ShortName": "03-rpu18",
+		"CommonName": "RWIS US-301 AT MD-5",
+		"Latitude": 38.697400,
+		"Longitude": -76.870610
+	},
+	{
+		"ShortName": "03-rpu19",
+		"CommonName": "RWIS  US-50 AT I-95",
+		"Latitude": 38.946440,
+		"Longitude": -76.860620
+	},
+	{
+		"ShortName": "04-rpu20",
+		"CommonName": "RWIS I-695 AT I-83",
+		"Latitude": 39.421790,
+		"Longitude": -76.639160
+	},
+	{
+		"ShortName": "04-rpu21",
+		"CommonName": "RWIS I-83 AT MD-137",
+		"Latitude": 39.592950,
+		"Longitude": -76.673180
+	},
+	{
+		"ShortName": "04-rpu22",
+		"CommonName": "RWIS MD-24 AT ROCKS STATE PARK",
+		"Latitude": 39.638390,
+		"Longitude": -76.412710
+	},
+	{
+		"ShortName": "04-rpu23",
+		"CommonName": "RWIS MD-43 AT MD-150",
+		"Latitude": 39.338224,
+		"Longitude": -76.417993
+	},
+	{
+		"ShortName": "04-rpu25",
+		"CommonName": "RWIS US-1 AT BALT/HARFORD CO LINE",
+		"Latitude": 39.476079,
+		"Longitude": -76.408614
+	},
+	{
+		"ShortName": "05-rpu27",
+		"CommonName": "RWIS I-97 AT MD-100",
+		"Latitude": 39.152430,
+		"Longitude": -76.644720
+	},
+	{
+		"ShortName": "05-rpu28",
+		"CommonName": "RWIS MD-4 AT PATUXENT RIVER",
+		"Latitude": 38.331390,
+		"Longitude": -76.466720
+	},
+	{
+		"ShortName": "05-rpu29",
+		"CommonName": "RWIS US-50 AT MD-2",
+		"Latitude": 39.014180,
+		"Longitude": -76.490340
+	},
+	{
+		"ShortName": "05-rpu30",
+		"CommonName": "RWIS I-97 AT MD-32",
+		"Latitude": 39.063770,
+		"Longitude": -76.643650
+	},
+	{
+		"ShortName": "05-rpu31",
+		"CommonName": "RWIS MD-344 AT MD-224",
+		"Latitude": 38.519932,
+		"Longitude": -77.233361
+	},
+	{
+		"ShortName": "05-rpu32",
+		"CommonName": "RWIS MD-231 AT PATUXENT RIVER",
+		"Latitude": 38.510740,
+		"Longitude": -76.664265
+	},
+	{
+		"ShortName": "06-rpu34",
+		"CommonName": "RWIS I-68 AT SAVAGE MOUNTAIN",
+		"Latitude": 39.665780,
+		"Longitude": -78.961240
+	},
+	{
+		"ShortName": "06-rpu35",
+		"CommonName": "RWIS I-68 AT SIDELING HILL",
+		"Latitude": 39.714960,
+		"Longitude": -78.280230
+	},
+	{
+		"ShortName": "06-rpu36",
+		"CommonName": "RWIS I-68 AT US-219",
+		"Latitude": 39.692170,
+		"Longitude": -79.248270
+	},
+	{
+		"ShortName": "06-rpu37",
+		"CommonName": "RWIS I-70 AT I-81",
+		"Latitude": 39.616020,
+		"Longitude": -77.784480
+	},
+	{
+		"ShortName": "06-rpu38",
+		"CommonName": "RWIS MD-135 AT SALT DOME",
+		"Latitude": 39.453820,
+		"Longitude": -79.208210
+	},
+	{
+		"ShortName": "06-rpu39",
+		"CommonName": "RWIS US-50 AT TABLE ROCK ROAD",
+		"Latitude": 39.301260,
+		"Longitude": -79.416681
+	},
+	{
+		"ShortName": "06-rpu40",
+		"CommonName": "RWIS MD-51 AT OLDTOWN SALT DOME",
+		"Latitude": 39.541932,
+		"Longitude": -78.592782
+	},
+	{
+		"ShortName": "07-rpu43",
+		"CommonName": "RWIS I-70 AT FREDERICK/WASHINGTON C",
+		"Latitude": 39.537300,
+		"Longitude": -77.606810
+	},
+	{
+		"ShortName": "07-rpu44",
+		"CommonName": "RWIS I-70 AT MD-27",
+		"Latitude": 39.359550,
+		"Longitude": -77.167580
+	},
+	{
+		"ShortName": "07-rpu45",
+		"CommonName": "RWIS I-70 AT MD-32",
+		"Latitude": 39.308040,
+		"Longitude": -76.951930
+	},
+	{
+		"ShortName": "07-rpu46",
+		"CommonName": "RWIS MD-140 AT MD-97",
+		"Latitude": 39.590680,
+		"Longitude": -77.000350
+	},
+	{
+		"ShortName": "07-rpu47",
+		"CommonName": "RWIS MD-30 AT PA LINE",
+		"Latitude": 39.714740,
+		"Longitude": -76.916200
+	},
+	{
+		"ShortName": "07-rpu48",
+		"CommonName": "RWIS US-15 AT MD-140",
+		"Latitude": 39.702340,
+		"Longitude": -77.313860
+	},
+	{
+		"ShortName": "07-rpu49",
+		"CommonName": "RWIS US-340 AT MD-180",
+		"Latitude": 39.356320,
+		"Longitude": -77.582370
+	},
+	{
+		"ShortName": "08-rpu50",
+		"CommonName": "RWIS I-95 AT TYDINGS BRIDGE",
+		"Latitude": 39.584860,
+		"Longitude": -76.097280
+	},
+	{
+		"ShortName": "08-rpu51",
+		"CommonName": "RWIS US-301 AT POTOMAC RIVER",
+		"Latitude": 38.363660,
+		"Longitude": -76.983000
+	},
+	{
+		"ShortName": "03-rpu17",
+		"CommonName": "I-95/495 AT I-295",
+		"Latitude": 38.793634,
+		"Longitude": -77.017622
+	},
+	{
+		"ShortName": "05-rpu33",
+		"CommonName": "MD-260 AT COX ROAD",
+		"Latitude": 38.696384,
+		"Longitude": -76.540413
+	}
+]
