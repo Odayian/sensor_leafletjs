@@ -1,4 +1,3 @@
-/*global firebase*/
 /*global database*/
 /*global L*/
 var mymap = L.map('mapid').setView([38.92523, -77.39868], 7.5);
@@ -10,11 +9,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     accessToken: 'pk.eyJ1Ijoib2RheWlhbiIsImEiOiJjajdxOXRxcHQyYWtjMzNycmlwOXlvcHdiIn0.sE3L5fLj9019VUCUJ3WDzA'
 }).addTo(mymap);
 
-
-
 var points = database.ref().child('rwis');
-
-
 
 points.on("value", function(snapshot) {
     snapshot.forEach(function(childSnapshot) {
